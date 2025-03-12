@@ -1,0 +1,39 @@
+12
+1X
+2X
+
+--|--
+--|--
+--|--
+--|--
+--|--
+R1|--
+G4|--
+==+==
+--|--
+--|--
+--|--
+--|--
+--|--
+--|--
+--|--
+==+==
+--|G6
+--|R2
+--|G3
+--|R4
+--|G2
+--|R1
+--|G1
+
++-----------+----+
+| glass     |  0 |
+| recycled  |  0 |
+| stone     |  0 |
+| wood      |  0 |
+| **bonus** |  0 |
++===========+====+
+| total     |  0 |
++-----------+----+
+
+Rule violations: [BUILDING_OVERLARGE, DESCENDING_DICE, INVALID_PLACEMENT, STACK_OVERLARGE]
