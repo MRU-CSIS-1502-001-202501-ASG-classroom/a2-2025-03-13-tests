@@ -1,0 +1,17 @@
+11
+11
+11
+
+<< EMPTY BUILDING >>
+
++-----------+----+
+| glass     |  0 |
+| recycled  |  0 |
+| stone     |  0 |
+| wood      |  0 |
+| **bonus** |  0 |
++===========+====+
+| total     |  0 |
++-----------+----+
+
+Rule violations: NONE
