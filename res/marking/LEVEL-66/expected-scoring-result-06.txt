@@ -1,0 +1,21 @@
+12
+1X
+2X
+
+--|--
+==+==
+--|R3
+==+==
+--|--
+
++-----------+----+
+| glass     |  0 |
+| recycled  |  0 |
+| stone     |  0 |
+| wood      |  0 |
+| **bonus** |  0 |
++===========+====+
+| total     |  0 |
++-----------+----+
+
+Rule violations: [INVALID_PLACEMENT]

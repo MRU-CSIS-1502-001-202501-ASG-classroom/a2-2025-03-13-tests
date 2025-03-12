@@ -1,0 +1,7 @@
+[row.1]
+col.1 = "G4 R1"
+
+[row.2]
+
+[row.3]
+col.2 = "G1 R1 G2 R4 G3 R2 G6"
