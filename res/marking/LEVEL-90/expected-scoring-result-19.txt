@@ -18,10 +18,10 @@ G2|S4
 | glass     |  2 |
 | recycled  |  2 |
 | stone     |  5 |
-| wood      |  6 |
+| wood      | 10 |
 | **bonus** |  0 |
 +===========+====+
-| total     | 15 |
+| total     | 19 |
 +-----------+----+
 
 Rule violations: NONE

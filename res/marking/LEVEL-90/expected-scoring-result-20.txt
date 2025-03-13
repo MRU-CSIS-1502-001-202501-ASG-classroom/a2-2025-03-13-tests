@@ -15,10 +15,10 @@ S2|S4
 | glass     |  6 |
 | recycled  |  2 |
 | stone     |  6 |
-| wood      |  2 |
+| wood      |  6 |
 | **bonus** |  6 |
 +===========+====+
-| total     | 22 |
+| total     | 26 |
 +-----------+----+
 
 Rule violations: NONE

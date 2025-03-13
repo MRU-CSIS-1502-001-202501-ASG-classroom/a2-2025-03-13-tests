@@ -18,10 +18,10 @@ W2|--
 | glass     |  0 |
 | recycled  |  5 |
 | stone     |  5 |
-| wood      |  8 |
+| wood      |  4 |
 | **bonus** |  6 |
 +===========+====+
-| total     | 24 |
+| total     | 20 |
 +-----------+----+
 
 Rule violations: NONE

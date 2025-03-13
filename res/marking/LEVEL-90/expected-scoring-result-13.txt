@@ -21,10 +21,10 @@ W5|--
 | glass     | 10 |
 | recycled  |  5 |
 | stone     |  0 |
-| wood      |  6 |
+| wood      |  8 |
 | **bonus** |  0 |
 +===========+====+
-| total     | 21 |
+| total     | 23 |
 +-----------+----+
 
 Rule violations: NONE

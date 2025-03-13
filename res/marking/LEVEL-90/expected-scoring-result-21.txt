@@ -15,10 +15,10 @@ S4|--
 | glass     |  2 |
 | recycled  |  0 |
 | stone     |  9 |
-| wood      |  6 |
+| wood      |  4 |
 | **bonus** |  0 |
 +===========+====+
-| total     | 17 |
+| total     | 15 |
 +-----------+----+
 
 Rule violations: NONE
